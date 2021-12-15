@@ -5,4 +5,4 @@ client.on('ready', () => {
     console.log(`${client.user.username} is online!`)
 })
 
-client.login('TOKEN')
+client.login('OTEyNTQxNTYzODY1OTM1OTMz.YZxcjw.Clb41g98J618bXCwqOqpBImPMt8')

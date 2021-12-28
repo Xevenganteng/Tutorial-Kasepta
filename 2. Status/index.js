@@ -17,4 +17,4 @@ client.on('ready', () => {
     console.log(`${client.user.username} is online!`)
 })
 
-client.login('TOKEN')
+client.login('OTEyNTQxNTYzODY1OTM1OTMz.YZxcjw.d0b7WdheBwLU00IAm0s6qpU5bkg')
